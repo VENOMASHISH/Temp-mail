@@ -7,7 +7,7 @@ try:
 except ModuleNotFoundError:
 	exit("[!] Module not installed")
 
-list_mail = ["vintomaper.com","tovinit.com","mentonit.net"]
+list_mail = ["vintomaper.com","tovinit.com","asu.edu"]
 url = "https://cryptogmail.com/"
 num = 0
 
